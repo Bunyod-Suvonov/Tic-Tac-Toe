@@ -46,5 +46,4 @@ The game is implemented in C++ and does not require any external dependencies.
 
 - This project is a console-based application and does not include a graphical user interface.
 - The game logic is implemented using a 3x3 grid.
-- The code includes comments for better understanding of the implementation details.
-- Feel free to explore, contribute, and have fun playing Tic-Tac-Toe! :D
+- Feel free to explore, contribute, and have fun playing Tic-Tac-Toe!
